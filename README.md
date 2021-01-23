@@ -1,4 +1,4 @@
-# 	hexo-deployer-upyun-purge
+# 	[hexo-deployer-upyun-purge](https://www.npmjs.com/package/hexo-deployer-upyun-purge )
 
 hexo deploy to upyun and purge cache
 
